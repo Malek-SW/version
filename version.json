@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "url": "null",
+  "notes": "في هذا الإصدار قمنا بدعم تحميل قوائم التشغيل وحتى القنوات، كما قمنا بتصحيح بعض الأخطاء!"
+}
+
+git init
+git add version.json
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Malek-SW/version.git
+git push -u origin main
